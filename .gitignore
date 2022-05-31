@@ -1,0 +1,10 @@
+#Log files
+*.log
+
+#target
+/target
+
+#IDE files
+.idea/
+*.iml
+*.settings
